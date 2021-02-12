@@ -1,8 +1,10 @@
+
+
+
+
+
 <h1 align="center">Hi 👋, I'm Martin</h1>
 <h3 align="center">A passionate frontend developer from Colombia</h3>
-
-
-<p align="left"> <a href="https://twitter.com/richi_corredor" target="blank"><img src="https://img.shields.io/twitter/follow/richi_corredor?logo=twitter&style=for-the-badge" alt="richi_corredor" /></a> </p>
 
 - 🌱 I’m currently learning **Python**
 
