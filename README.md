@@ -1,4 +1,4 @@
-![](https://github.com/martincorredor/martincorredor/blob/main/yellow%20and%20Cyan%20Futuristic%20Neon%20E-sports%20YouTube%20Intro.gif)
+<img src="https://github.com/martincorredor/martincorredor/blob/main/yellow%20and%20Cyan%20Futuristic%20Neon%20E-sports%20YouTube%20Intro.gif" class="responsive"/>
 
 📫 How to reach me **dev.martincorredor@gmail.com**
 
