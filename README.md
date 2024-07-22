@@ -54,7 +54,7 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
     <!-- linkedin -->
-    <a href="https://linkedin.com/in/martin corredor"><img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" width="40px" alt="LinkedIn"></a> &nbsp; &nbsp;
+    <a href="https://www.linkedin.com/in/martin-corredor/"><img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" width="40px" alt="LinkedIn"></a> &nbsp; &nbsp;
     <!-- Codepen -->
     <a href="https://codepen.io/martin-corredor" target="blank"><img src="https://img.icons8.com/ios-filled/50/26e07f/codepen.png"/></a> &nbsp; &nbsp;
     <!-- gmail-->
